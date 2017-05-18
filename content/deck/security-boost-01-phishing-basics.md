@@ -271,9 +271,8 @@ ___
 
 ## Punycode is not perfect
 
-- Doesn't trigger if full domain name uses foreign alphabet
+- Won't trigger if full domain uses foreign alphabet
  - The result can be pretty scary
- - What about buying a new iPhone on https://аррӏе.com
 
  ![Punycode apple](/images/punycode-apple.png)
 
