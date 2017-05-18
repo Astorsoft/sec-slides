@@ -1,0 +1,27 @@
+{{ partial "header.html" . }}
+
+<h1>Kindred Group Security slide decks</h1>
+
+<h2>English content</h2>
+<ul>
+{{ range where .Data.Pages "Section" "deck"  }}
+  {{ if eq .Params.lang "en" }}
+    <li><a href="{{ .URL }}">{{ .Title }}</a> (<a href="{{$.Site.BaseURL}}pdf/{{ .File.BaseFileName }}.pdf">PDF</a>)</li>
+    {{ end }}
+{{ end }}
+</ul>
+
+<h2>Contenu en français</h2>
+<ul>
+{{ range where .Data.Pages "Section" "deck"  }}
+  {{ if eq .Params.lang "fr" }}
+  <li><a href="{{ .URL }}">{{ .Title }}</a> (<a href="{{$.Site.BaseURL}}pdf/{{ .File.BaseFileName }}.pdf">PDF</a>)</li>
+  {{ end }}
+{{ end }}
+</ul>
+
+
+
+
+
+{{ partial "footer.html" . }}
