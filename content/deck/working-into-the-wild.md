@@ -34,9 +34,9 @@ ___
 <!-- .slide: data-background="http://imgur.com/NnJ9nlP.jpg"  data-state="dimblur" -->
 ## Field Briefing
 
-- London office moved to a temporary location
+- Office moved to a temporary location
 - Duration: 4 month
-- We'll have dedicated offices...
+- You'll have dedicated offices...
  - ...but in a shared tenancy setup
  - shared spaces: Kitchen, Toilets, Meeting rooms...
 
