@@ -6,7 +6,7 @@ lang="en"
 summary = "And you thought you knew everything about phishing? Let me show you 5 false assumption about how to spot what is a phish and what is not!"
 +++
 
-<!-- .slide: data-background="../pics/bg/hook.jpg" data-state="blur" -->
+<!-- .slide: data-background="/pics/bg/hook.jpg" data-state="blur" -->
 
 # 5 things you thought you knew about phishing
 
@@ -16,13 +16,13 @@ summary = "And you thought you knew everything about phishing? Let me show you 5
 
 > <*f*> for fullscreen, <*space*> for next slide
 ---
-<!-- .slide: data-background="../pics/bg/kahoot.png"  data-state="dim" -->
+<!-- .slide: data-background="/pics/bg/kahoot.png"  data-state="dim" -->
 
 ## Quiz incoming!
 
 
 ___
-<!-- .slide: data-background="../pics/bg/kahoot.png"  data-state="megadimblur" -->
+<!-- .slide: data-background="/pics/bg/kahoot.png"  data-state="megadimblur" -->
 ## Prepare for the quiz
 
 - Short quiz at the end of this presentation
@@ -31,7 +31,7 @@ ___
 - Go to http://kahoot.it and type the code
  - Try it now, it takes time to setup.
 ---
-<!-- .slide: data-background="../pics/bg/hook.jpg"  data-state="dim" -->
+<!-- .slide: data-background="/pics/bg/hook.jpg"  data-state="dim" -->
 
 ## Basic reminder: Phishwhat?
 
@@ -42,7 +42,7 @@ ___
  - all of the above
 
 ---
-<!-- .slide: data-background="../pics/bg/phishing.jpg"  data-state="dimblur" -->
+<!-- .slide: data-background="/pics/bg/phishing.jpg"  data-state="dimblur" -->
 
 ## Phishing "levels"
 
@@ -51,17 +51,17 @@ ___
 - **Whaling**
 
 ___
-<!-- .slide: data-background="../pics/bg/spearphishing.jpg" data-state="dimblur" -->
+<!-- .slide: data-background="/pics/bg/spearphishing.jpg" data-state="dimblur" -->
 
 ## Spear phishing
 
 - Tailored to specific individuals or groups
 - Uses details from social medias, previous hacks...
 
-![Faktura fran Telia](../pics/faktura-telia.png)
+![Faktura fran Telia](/pics/faktura-telia.png)
 
 ___
-<!-- .slide: data-background="../pics/bg/whaling.jpg" data-state="dimblur" -->
+<!-- .slide: data-background="/pics/bg/whaling.jpg" data-state="dimblur" -->
 
 ## Whaling
 
@@ -70,7 +70,7 @@ ___
  - CEO, CFO, etc
 - Uses detailed personal information and corporate lingo
 
-![Whaling Example](../pics/whaling-ex.jpg)
+![Whaling Example](/pics/whaling-ex.jpg)
 
 ---
 
@@ -84,27 +84,27 @@ ___
 
 ___
 
-<!-- .slide: data-background="../pics/bg/mailbox.jpg" data-state="dimblur" -->
+<!-- .slide: data-background="/pics/bg/mailbox.jpg" data-state="dimblur" -->
 
 Spoofing email is doable
 
-![brendan fake](../pics/brendan-fake-mail.png)
+![brendan fake](/pics/brendan-fake-mail.png)
 
 Anti-spam solutions usually catch it...usually.
 
 ___
-<!-- .slide: data-background="../pics/bg/mailbox.jpg" data-state="dimblur" -->
+<!-- .slide: data-background="/pics/bg/mailbox.jpg" data-state="dimblur" -->
 
 ## Email Hijack
 
 If your friend got hacked
 
-![friend hacked](../pics/phishing-hacked-account.jpg)
+![friend hacked](/pics/phishing-hacked-account.jpg)
 
 attacker doesn't even need to spoof anything
 
 ___
-<!-- .slide: data-background="../pics/bg/magnifying-glass.jpg" data-state="dimblur" -->
+<!-- .slide: data-background="/pics/bg/magnifying-glass.jpg" data-state="dimblur" -->
 
 ## When in doubt, Cross-check
 
@@ -128,7 +128,7 @@ ___
 - Social media
 
 ___
-<!-- .slide: data-background="../pics/bg/vishing.jpg" data-state="dim"-->
+<!-- .slide: data-background="/pics/bg/vishing.jpg" data-state="dim"-->
 
 ## Vishing
 
@@ -137,17 +137,17 @@ ___
 - They have call centers dedicated to this kind of scam
 - Don't trust the CallerID, it can be faked
 
-![IRS scam](../pics/irs-scam.jpg)
+![IRS scam](/pics/irs-scam.jpg)
 
 ___
 
-<!-- .slide: data-background="../pics/bg/smishing.jpg" data-state="megadimblur" -->
+<!-- .slide: data-background="/pics/bg/smishing.jpg" data-state="megadimblur" -->
 
 ## Smishing
 
 - Phishing over SMS
 
-![wells faergo smishing](../pics/wells-fargo-smishing.jpg)
+![wells faergo smishing](/pics/wells-fargo-smishing.jpg)
 
 Note:
 
@@ -159,7 +159,7 @@ Those numbers are what we call BIN, or Bank Identification Number, they are not 
 
 ___
 
-<!-- .slide: data-background="../pics/bg/social-networks.jpg" data-state="megadimblur" -->
+<!-- .slide: data-background="/pics/bg/social-networks.jpg" data-state="megadimblur" -->
 
 ## Social Network phishing
 
@@ -167,7 +167,7 @@ ___
 - Use "infected" friends to make you click on malicious links
 - Catphishing to lure you into giving out personal details
 
-![FB phishing link](../pics/fb-phishing-what-are-you-doing-lol.png)
+![FB phishing link](/pics/fb-phishing-what-are-you-doing-lol.png)
 
 
 
@@ -179,26 +179,26 @@ ___
 ## 3. The website has the green padlock, I'm safe!
 
 ___
-<!-- .slide: data-background="../pics/bg/green-padlock.jpg" data-state="dimblur"-->
+<!-- .slide: data-background="/pics/bg/green-padlock.jpg" data-state="dimblur"-->
 
 ## The green padlock
 
 What do you think of those websites?
 
-![Fake https2](../pics/fake-https-paypal.jpg)
+![Fake https2](/pics/fake-https-paypal.jpg)
 
 ___
-<!-- .slide: data-background="../pics/bg/green-padlock.jpg" data-state="dimblur"-->
+<!-- .slide: data-background="/pics/bg/green-padlock.jpg" data-state="dimblur"-->
 
 ## The green padlock
 
  ...woops
 
- ![Fake https2](../pics/fake-https-2.jpg)
+ ![Fake https2](/pics/fake-https-2.jpg)
 
 ___
 
-<!-- .slide: data-background="../pics/bg/green-padlock.jpg" data-state="dimblur"-->
+<!-- .slide: data-background="/pics/bg/green-padlock.jpg" data-state="dimblur"-->
 
 ## HTTPS true meaning
 
@@ -217,7 +217,7 @@ ___
 
 
 ___
-<!-- .slide: data-background="../pics/bg/typewriter.jpg" data-state="megadimblur" -->
+<!-- .slide: data-background="/pics/bg/typewriter.jpg" data-state="megadimblur" -->
 ## Typosquatting
 
 > Please visit <span class="fragment highlight-red">rn</span>icrosoft.com for more details
@@ -226,13 +226,13 @@ ___
 
 > Damn! I meant micr<span class="fragment highlight-red">p</span>soft.com
 
-![big thumb](../pics/big-thumb.jpg)
+![big thumb](/pics/big-thumb.jpg)
 
 Note:
 Finally, if they just want you to go there by yourself, they can try to squat common typing mistake.
 
 ___
-<!-- .slide: data-background="../pics/bg/letters.jpg" data-state="dimblur" -->
+<!-- .slide: data-background="/pics/bg/letters.jpg" data-state="dimblur" -->
 
 ## Homographs
 
@@ -241,7 +241,7 @@ Wikip<span class="fragment highlight-red" data-fragment-index="1">e</span>di<spa
 Note:
 https://en.wikipedia.org/wiki/IDN_homograph_attack
 ___
-<!-- .slide: data-background="../pics/bg/letters.jpg" data-state="dimblur" -->
+<!-- .slide: data-background="/pics/bg/letters.jpg" data-state="dimblur" -->
 
 ## Homographs
 
@@ -254,7 +254,7 @@ Let's put them next to one another
 Note:
 https://en.wikipedia.org/wiki/IDN_homograph_attack
 ___
-<!-- .slide: data-background="../pics/bg/letters.jpg" data-state="dimblur" -->
+<!-- .slide: data-background="/pics/bg/letters.jpg" data-state="dimblur" -->
 
 ## How can I seriously spot that?!
 
@@ -263,11 +263,11 @@ ___
  - This makes a text like this : http://www.pa&#1091;pal.com
  - Look like this: http://www.xn--pypal-4ve.com/
 
-![Punycode example](../pics/punycode-example.png)
+![Punycode example](/pics/punycode-example.png)
 
 ...but
 ___
-<!-- .slide: data-background="../pics/bg/letters.jpg" data-state="dimblur" -->
+<!-- .slide: data-background="/pics/bg/letters.jpg" data-state="dimblur" -->
 
 ## Punycode is not perfect
 
@@ -275,10 +275,10 @@ ___
  - The result can be pretty scary
  - What about buying a new iPhone on https://аррӏе.com
 
- ![Punycode apple](../pics/punycode-apple.png)
+ ![Punycode apple](/pics/punycode-apple.png)
 
 ___
-<!-- .slide: data-background="../pics/bg/letters.jpg" data-state="dimblur" -->
+<!-- .slide: data-background="/pics/bg/letters.jpg" data-state="dimblur" -->
 ## We're doomed!
 
  - It's pretty rare though..
@@ -292,7 +292,7 @@ On firefox you can ask him to always use Punycode, which has basically no downsi
 ## 5. I'm using 2FA, I'm phishing free!
 
 ___
-<!-- .slide: data-background="../pics/bg/2fa.jpg" data-state="dimblur" -->
+<!-- .slide: data-background="/pics/bg/2fa.jpg" data-state="dimblur" -->
 
 ## 2FA is great, not bullet proof
 
@@ -313,17 +313,17 @@ ___
 <iframe width="560" height="315" src="https://www.youtube.com/embed/srieYiogbxk?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ---
-<!-- .slide: data-background="../pics/bg/sleepy-cat.jpg" data-state="dim" -->
+<!-- .slide: data-background="/pics/bg/sleepy-cat.jpg" data-state="dim" -->
 
 ## Ok, that's enough for today
 
 ---
-<!-- .slide: data-background="../pics/bg/questions.jpg" data-state="shadow" -->
+<!-- .slide: data-background="/pics/bg/questions.jpg" data-state="shadow" -->
 
 ## Any Questions?
 
 ---
-<!-- .slide: data-background="../pics/bg/kahoot.png"  data-state="dim" -->
+<!-- .slide: data-background="/pics/bg/kahoot.png"  data-state="dim" -->
 
 ## Quiz Time!
 
