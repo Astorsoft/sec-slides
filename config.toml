@@ -2,7 +2,6 @@ baseurl = "http://kindred-slides.infosecgur.us/"
 languageCode = "en-us"
 title = "Kindred Security"
 theme= "hugo-theme-docdock"
-themeVariant = "gold"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
