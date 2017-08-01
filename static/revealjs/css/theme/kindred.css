@@ -305,6 +305,49 @@ body {
 	filter: blur(4px);
 }
 
+html.bg-green .backgrounds {
+  background-color: #2ea836;
+}
+html.title-green h1, html.title-green h2, html.title-green h3 {
+  color: #2ea836;
+}
+
+html.bg-pink .backgrounds {
+  background-color: #E72B78;
+}
+html.title-pink h1, html.title-pink h2, html.title-pink h3 {
+  color: #E72B78;
+}
+
+html.bg-blue .backgrounds {
+  background-color: #00a5de;
+}
+html.title-blue h1, html.title-blue h2, html.title-blue h3 {
+  color: #00a5de;
+}
+
+html.bg-purple .backgrounds {
+  background-color: #992785;
+}
+html.title-purple h1, html.title-purple h2, html.title-purple h3 {
+  color: #992785;
+}
+
+html.bg-orange .backgrounds {
+  background-color: #F39000;
+}
+html.title-orange h1, html.title-orange h2, html.title-orange h3 {
+  color: #F39000;
+}
+
+html.bg-white .backgrounds {
+  background-color: #fff;
+}
+
+
+
+
+
 html.dim .backgrounds {
 	-webkit-filter: saturate(.5) brightness(.4);
 	-moz-filter: saturate(.7) brightness(.4);
